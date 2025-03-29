@@ -22,7 +22,7 @@ Stretch Goals: Become subject of vindictive executive order.
 
 ## Stay Connected
 
-Visit our official site at **dovahw.crypto** for more information.
+Visit our official site at **[dovahw.xyz](https://dovahw.xyz)** for more information.
 
 ## Hashtags
 
