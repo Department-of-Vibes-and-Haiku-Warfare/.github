@@ -6,7 +6,7 @@ Welcome to the **Department of Vibes and Haiku Warfare**, where we blend the wor
 
 Our mission is to create a safe, anonymous, and creative digital space where ideas are free, and security is paramount. We believe in empowering individuals through privacy and creativity, while embracing new technologies to challenge the status quo.
 
-Stretch Goals: Become subject of vindictive executive order.
+Stretch Goals: Become subject of retaliatory executive order.
 
 ## What We Do
 
