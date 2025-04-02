@@ -2,6 +2,8 @@
 
 Welcome to the **Department of Vibes and Haiku Warfare**, where we blend the worlds of technology, creativity, and privacy. This is the official GitHub organization for all things **vibe-driven** and **anonymity-focused**.
 
+Visit our [main site](https://dovahw.xyz) for a top secret briefing from our Operations Directorate.
+
 ## Mission
 
 Our mission is to create a safe, anonymous, and creative digital space where ideas are free, and security is paramount. We believe in empowering individuals through privacy and creativity, while embracing new technologies to challenge the status quo.
