@@ -18,7 +18,7 @@ Stretch Goals: Become subject of retaliatory executive order.
 
 ## Get Involved
 
-- Check out our [open-source projects](https://github.com/Department-of-Vibes-and-Haiku-Warfare).
+- Check out our [open-source projects](https://github.com/orgs/Department-of-Vibes-and-Haiku-Warfare/repositories).
 - Contribute to our mission by submitting pull requests or issues.
 - Join us in building a better, safer, and more creative digital world.
 
